@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fontes CAD 01
 // @namespace    http://www.caixa.gov.br
-// @version      0.2
+// @version      0.2.1
 // @description  try to take over the world!
 // @author       RafaTI SMAS, Talis TI SMAS
 // @match        *://*.caixa.gov.br/*
