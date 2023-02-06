@@ -7,8 +7,8 @@
 // @match        *://*.caixa.gov.br/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gov.br
 // @grant        none
-// @updateURL    https://github.com/Grafikt/CADFonte1/blob/main/FonteCAD1.js
-// @downloadURL  https://github.com/Grafikt/CADFonte1/blob/main/FonteCAD1.js
+// @updateURL    https://t.ly/uGIX
+// @downloadURL  https://t.ly/uGIX
 // ==/UserScript==
 
 
@@ -24,4 +24,5 @@ document.head.appendChild(style);
 })();
 
 //  https://www.invertexto.com/cadfont01
-// Utima atualização 06/02/2023 - 12:45
+// https://raw.githubusercontent.com/Grafikt/CADFonte1/main/FonteCAD1.js
+// Utima atualização 06/02/2023 - 13:30
