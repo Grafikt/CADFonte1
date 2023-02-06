@@ -27,3 +27,4 @@ document.head.appendChild(style);
 })();
 
 //  https://www.invertexto.com/cadfont01
+// Utima atualização 06/02/2023 - 12:45
