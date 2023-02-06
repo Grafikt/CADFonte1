@@ -7,8 +7,8 @@
 // @match        *://*.caixa.gov.br/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gov.br
 // @grant        none
-// @updateURL    https://www.invertexto.com/cadfont01
-// @downloadURL  https://www.invertexto.com/cadfont01
+// @updateURL    https://github.com/Grafikt/CADFonte1/blob/main/FonteCAD1.js
+// @downloadURL  https://github.com/Grafikt/CADFonte1/blob/main/FonteCAD1.js
 // ==/UserScript==
 
 
@@ -25,3 +25,5 @@ var style = document.createElement('style');
 style.innerHTML = classes.join(', ') + ' { color: black !important; }';
 document.head.appendChild(style);
 })();
+
+//  https://www.invertexto.com/cadfont01
