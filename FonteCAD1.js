@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fontes CAD 01
 // @namespace    http://www.caixa.gov.br
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       RafaTI SMAS, Talis TI SMAS
 // @match        *://*.caixa.gov.br/*
@@ -15,10 +15,7 @@
 (function() {
     // Variável 'classes' com os objetos que receberam a fonte em PRETO.
 var classes = [
-  'body',
-  'p',
-  'input',
-  '.TabLabel',
+  'body', 'p', 'input', '.TabLabel',
   'h1', 'h2', 'h3', 'h4', 'h5', 'h6'
 ];
 var style = document.createElement('style');
