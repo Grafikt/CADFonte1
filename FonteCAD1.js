@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fontes CAD 01
 // @namespace    http://www.caixa.gov.br
-// @version      0.2.2
+// @version      0.2.3
 // @description  try to take over the world!
 // @author       RafaTI SMAS, Talis TI SMAS
 // @match        *://*.caixa.gov.br/*
@@ -26,3 +26,5 @@ document.head.appendChild(style);
 //  https://www.invertexto.com/cadfont01
 // https://raw.githubusercontent.com/Grafikt/CADFonte1/main/FonteCAD1.js
 // Utima atualização 06/02/2023 - 13:42
+
+// Utima atualização 08/02/2023 - 10:50 - Teste atualização 03
