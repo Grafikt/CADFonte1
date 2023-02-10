@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fontes CAD 01
 // @namespace    http://www.caixa.gov.br
-// @version      0.2.3
+// @version      0.2.5
 // @description  try to take over the world!
 // @author       RafaTI SMAS, Talis TI SMAS
 // @match        *://*.caixa.gov.br/*
@@ -28,3 +28,5 @@ document.head.appendChild(style);
 // Utima atualização 06/02/2023 - 13:42
 
 // Utima atualização 08/02/2023 - 10:50 - Teste atualização 03
+
+// Utima atualização 10/02/2023 - 08:20 - Teste atualização 04
